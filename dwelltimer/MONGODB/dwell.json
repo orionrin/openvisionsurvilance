@@ -1,0 +1,90 @@
+{ 
+    "_id" : ObjectId("57a88045d3b5440ea4759657"), 
+    "personincount" : NumberInt(0), 
+    "partialdata" : true, 
+    "totalsec" : 2.2797264328280606, 
+    "personin" : "0.8798944126704795", 
+    "personout" : "3.1596208454985404", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57a88045d3b5440ea4759658"), 
+    "personincount" : NumberInt(1), 
+    "partialdata" : true, 
+    "totalsec" : 2.519697636283646, 
+    "personin" : "4.279486461624605", 
+    "personout" : "6.799184097908251", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("57a880ddd3b5440ea4759659"), 
+    "personincount" : NumberInt(0), 
+    "partialdata" : true, 
+    "totalsec" : 5.519337679478461, 
+    "personin" : "59.672839259288885", 
+    "personout" : "65.19217693876735", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57a880ddd3b5440ea475965a"), 
+    "personincount" : NumberInt(1), 
+    "partialdata" : true, 
+    "totalsec" : 2.19973603167621, 
+    "personin" : "66.59200895892492", 
+    "personout" : "68.79174499060113", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("57a88170d3b5440ea475965b"), 
+    "personincount" : NumberInt(2), 
+    "partialdata" : true, 
+    "totalsec" : 1.6398032236131712, 
+    "personin" : "78.95052593688757", 
+    "personout" : "80.59032916050074", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57a88324d3b5440ea475965c"), 
+    "personincount" : NumberInt(0), 
+    "partialdata" : true, 
+    "totalsec" : 8.279006519217688, 
+    "personin" : "207.93504779426468", 
+    "personout" : "216.21405431348236", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57a883fad3b5440ea475965d"), 
+    "personincount" : NumberInt(0), 
+    "partialdata" : true, 
+    "totalsec" : 1.1198656161261056, 
+    "personin" : "286.6056073271207", 
+    "personout" : "287.7254729432468", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("57a883fad3b5440ea475965e"), 
+    "personincount" : NumberInt(1), 
+    "partialdata" : true, 
+    "totalsec" : 0.11998560172781936, 
+    "personin" : "287.88545374555054", 
+    "personout" : "288.00543934727835", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("57a883fad3b5440ea475965f"), 
+    "personincount" : NumberInt(2), 
+    "partialdata" : true, 
+    "totalsec" : 1.6398032236131144, 
+    "personin" : "288.0854297484302", 
+    "personout" : "289.72523297204333", 
+    "segname" : "Philips Electronics", 
+    "personoutcount" : NumberInt(2)
+}

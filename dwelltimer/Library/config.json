@@ -1,0 +1,49 @@
+{ "configuration":
+	{ "camera":
+		[{ "camera_id" : 1,
+		  "name" : "C Section (ground floor)",
+		  "description" : "",
+		  "stream" : "C:\\Users\\infinity\\Desktop\\dwell release 1\\Library\\v.mp4",
+		  "operation_mode":
+			[{ "mode_id" : 2,
+			  "name" : "dwell",
+			  "configuration":
+				{ "width" : 250,
+				  "height" : 480,
+				  "segments":
+					[{ "segment_id" : 1,
+					   "name" : "Philips Electronics",
+					  "coordinates" : [[24, 82], [229, 190]]
+					},
+					{ "segment_id" : 2,
+					   "name" : "Fasttrack Accessories",
+					  "coordinates" : [[24, 102], [249, 290]]
+					}]
+				}
+			},
+			{ "mode_id" : 3,
+			  "name" : "track",
+			  "configuration":
+				{
+
+				}
+			}]
+			
+		},
+		{ "camera_id" : 2,
+		  "name" : "B Section (ground floor)",
+		  "description" : "",
+		  "stream" : "C:\\Users\\infinity\\Desktop\\dwell release 1\\Library\\v.mp4",
+		  "operation_mode":
+			[{ "mode_id" : 1,
+			  "name" : "count",
+			  "configuration":
+				{
+				"wayin": "+", "boxstatus": "horizontal", "wayoutline": [[94, 90], [280, 105]], "inline": "line2", "outline": "line1", "box": [[[94, 90], [280, 105]], [[92, 120], [278, 135]]], "width": 400, "wayinline": [[92, 120], [278, 135]], "line2": [[92, 120], [278, 135]], "linestatus": "vertical", "wayout": "-", "line1": [[94, 90], [280, 105]]
+				}
+			}]
+			
+		}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+conn = :  MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+db = :  Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'bufo')
+starting......
+fatal ERROR in InputFromConfigFile() : 
+Error Name :  [Errno 2] No such file or directory: ''
+Error in details : 
+Error Type :  <class 'FileNotFoundError'>
+file name :  C:\Users\infinity\Desktop\temp\Library\ivision\survilance\dwelltimer.py
+Line Number :  705
+cli input ...  -1
+
+

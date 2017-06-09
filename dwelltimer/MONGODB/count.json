@@ -1,0 +1,98 @@
+{ 
+    "_id" : ObjectId("57a88102d3b544037c89e2e1"), 
+    "time" : "2.7196736391633003", 
+    "outcount" : "1", 
+    "event" : "out", 
+    "incount" : "0"
+}
+{ 
+    "_id" : ObjectId("57a88102d3b544037c89e2e2"), 
+    "time" : "6.4392272927248735", 
+    "outcount" : "2", 
+    "event" : "out", 
+    "incount" : "0"
+}
+{ 
+    "_id" : ObjectId("57a88251d3b544037c89e2e3"), 
+    "time" : "58.2730072391313", 
+    "outcount" : "2", 
+    "event" : "in", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88251d3b544037c89e2e4"), 
+    "time" : "64.11230652321721", 
+    "outcount" : "3", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88251d3b544037c89e2e5"), 
+    "time" : "64.43226812782466", 
+    "outcount" : "4", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88251d3b544037c89e2e6"), 
+    "time" : "64.51225852897652", 
+    "outcount" : "5", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88251d3b544037c89e2e7"), 
+    "time" : "68.5117785865696", 
+    "outcount" : "6", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88381d3b544037c89e2e8"), 
+    "time" : "80.39035315762108", 
+    "outcount" : "7", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88543d3b544037c89e2e9"), 
+    "time" : "203.13562372515298", 
+    "outcount" : "8", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88543d3b544037c89e2ea"), 
+    "time" : "203.21561412630484", 
+    "outcount" : "9", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88543d3b544037c89e2eb"), 
+    "time" : "214.0543134823821", 
+    "outcount" : "10", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88543d3b544037c89e2ec"), 
+    "time" : "214.29428468583768", 
+    "outcount" : "11", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88543d3b544037c89e2ed"), 
+    "time" : "215.17417909850818", 
+    "outcount" : "12", 
+    "event" : "out", 
+    "incount" : "1"
+}
+{ 
+    "_id" : ObjectId("57a88647d3b544037c89e2ee"), 
+    "time" : "286.24565052193736", 
+    "outcount" : "12", 
+    "event" : "in", 
+    "incount" : "2"
+}
